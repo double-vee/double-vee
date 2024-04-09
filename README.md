@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-I'm a frontend developer focusing on React.
+I'm a frontend developer focusing on React/Next.js.
 
 Tools and languages I've used:
 
-<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> <img alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40px"> <img alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <img alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img alt="CSS3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <img alt="React" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> <img alt="Next.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="60px"> <img alt="Tailwind" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> <img alt="Sass" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> <img alt="VSCode" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> <img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> <img alt="Figma" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+
+I'm currently learning:
+
+<img alt="Typescript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 <!--
 **double-vee/double-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
