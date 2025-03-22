@@ -1,14 +1,37 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a frontend developer focusing on React/Next.js.
+I'm a frontend developer from Warsaw, Poland focusing on React and Next.js.
 
-Tools and languages I've used:
+I've recently completed a UI software engineering internship, and I'm looking for new opportunities to grow and collaborate with other human beings.
 
-<img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> <img alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> <img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+### What I bring to the team
 
-I'm currently learning:
+- 👀 an eye for design + attention to detail (I *do* count pixels 😅)
 
-<img alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+- 💬 good communication skills + proficiency in English
+
+- 🔧 a can-do attitude + enthusiasm for learning new things
+
+### What I find important
+
+- 🦾 accessibility: why build web apps if people can't use them?
+
+- 👌 simplicity: let's not make lives (or codebase) any harder
+
+- 🧠 teamwork: mutual brain-picking = faster and better solutions to problems
+
+## 🎨 Tools and languages
+
+What I've used so far:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,styledcomponents,sass,tailwind,git,firebase,vscode,figma)](https://skillicons.dev)
+
+## 🎮 GitHub stats
+
+Just to keep me going:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=double-vee&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
+
 
 <!--
 **double-vee/double-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
